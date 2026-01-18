@@ -41,12 +41,4 @@ It is useful for Python and NumPy beginners.
 - **matrix_aggregation.py**  
   Calculates row and column sums, maximums, and minimums.
 
----
 
-## 🛠️ Requirements
-- Python 3.x
-- NumPy
-
-Install NumPy using:
-```bash
-pip install numpy
