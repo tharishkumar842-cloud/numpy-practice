@@ -61,14 +61,3 @@ This repository contains **4 small Python projects** demonstrating the use of **
 
 ---
 
-## Technologies Used
-- Python
-- NumPy
-
----
-
-## How to Run
-1. Install NumPy:
-   ```bash
-   pip install numpy
-
